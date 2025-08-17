@@ -2,9 +2,9 @@ export const Bio = {
   name: "Shivam Dubey",
   roles: [
     "Student at IIT Madras",
-    "3rd Year Undergraduate",
-    "React Js Developer",
-    "Programmer",
+    "Final Year Undergraduate",
+    "Software Developer",
+    "Full Stack Developer",
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
@@ -54,8 +54,14 @@ export const skills = [
         name: "Material UI",
         image:
           "data:image/png;base64,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",
+      },{
+        name : "Tailwind CSS",
+        image : "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
       },
-
+      {
+        name : "Shadcn",
+        image : "https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png"
+      }
     ],
   },
   {
@@ -79,6 +85,14 @@ export const skills = [
         name: "Firebase",
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
       },
+      {
+        name : "My SQL",
+        image : "http://logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg"
+      },
+      {
+        name : "PostgreSQL",
+        image : "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"
+      }
     ],
   },
   {
@@ -98,6 +112,14 @@ export const skills = [
         name: "Javascript",
         image:
           "https://cdn.worldvectorlogo.com/logos/logo-javascript.svg",
+      },
+      {
+        name : "Python",
+        image : "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+      },
+      {
+        name : "SQL",
+        image : "https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"
       },
     ],
   },
@@ -130,19 +152,24 @@ export const skills = [
           "https://www.svgrepo.com/show/354202/postman-icon.svg",
       },
       {
-        name: "Canva",
-        image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/900px-Canva_icon_2021.svg.png?20220821125247",
+        name : "Redis",
+        image : "https://1000logos.net/wp-content/uploads/2020/08/Redis-Logo.png"
       },
       {
-        name: "Stripo",
-        image:
-          "https://i.pinimg.com/736x/81/64/6b/81646bec7d2fa6f1f33476fcb5ae9889.jpg",
+        name : "Docker",
+        image : "https://images.icon-icons.com/2108/PNG/512/docker_icon_130955.png"
       },
       {
-        name: "Beefree",
-        image:
-          "https://asset.brandfetch.io/idVPnYGT2P/idMPRTifr8.svg",
+        name : "Cloudinary",
+        image : "https://upload.wikimedia.org/wikipedia/commons/b/b2/Cloudinary_logo.svg"
+      },
+      {
+        name : "Vercel",
+        image : "https://logos-world.net/wp-content/uploads/2024/10/Vercel-Logo.png"
+      },
+      {
+        name : "Render",
+        image : "https://cdn.sanity.io/images/34ent8ly/production/ec37a3660704e1fa2b4246c9a01ab34e145194ad-824x824.png?w=64&h=64&fit=min&auto=format"
       },
     ],
   },
@@ -151,82 +178,21 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C4E0BAQGXDOz6x_lQ_Q/company-logo_200_200/0/1630624624213/finance_club_iit_madras_logo?e=2147483647&v=beta&t=mk_dOlvTOjKbAIE_3Mk8RnP9e_oubRd01QSK-8z49Yc",
-    role: "Events Coordinator",
-    company: "Finance Club, IIT Madras",
-    date: "Jun 2023 - Apr 2024",
-    desc: "Coordinated the '36 Wall Street Fest, 2024, which is the flagship event of the Finance Club, and organized major events, webinars, and sessions.",
+    img: "",
+    role: "Testwale.Ai ",
+    company: "Software Developer Intern",
+    date: "May 2025 - Jul 2025",
+    desc: "•Developed core user-facing pages and admin panel for a test-generation platform for both web & mobile app\n•Integrated backend APIs, allowing students to generate personalized mock tests and view performance report\n•Reduced test generation time from 30+ seconds to 5-8 seconds via background loading, enhancing user experience",
     skills: [
-      "Leadership",
-      "Teamwork",
-      "Event Planning",
-      "Project Management",
-      "Communication",
-      "Networking",
-      "Organization",
-      "Collaboration",
-      "Problem-Solving",
-      "Time Management",
-    ],
-  },
-  {
-    id: 0,
-    img: "https://pbs.twimg.com/profile_images/1726962962001453056/2MKssGh6_400x400.jpg",
-    role: "Events and Workshop Coordinator",
-    company: "Shaastra, IIT Madras",
-    date: "May 2023 - Jan 2024",
-    desc: "Organized engaging competitions and impactful initiatives for Shaastra, the largest student run techfest in India. ",
-    skills: [
-      "Event Planning",
-      "Team Leadership",
-      "Project Management",
-      "Logistics Management",
-      "Problem-Solving",
-      "Communication",
-      "Networking",
-      "Organization",
-      "Coordination",
-      "Innovation"
-    ],
-  },
-  {
-    id: 1,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTceMzwhv4Sjzs1BaSb0Tve2Azw_e8hHOPMJw&s",
-    role: "Music Club Coordinator",
-    company: "Sangam, IIT Madras (The cultural society of IIT Madras)",
-    date: "May 2023 - Mar 2024",
-    desc: "Managed promotional design, social media, and event coordination, fostering community engagement through diverse musical events and competitions.",
-    skills: [
-      "Design",
-      "Communication",
-      "Social Media Management",
-      "Event Coordination",
-      "Promotion",
-      "Teamwork",
-      "Leadership",
-      "Talent Identification",
-      "Organization",
-      "Collaboration",
-    ],
-  },
-  {
-    id: 2,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLAdr7dFGGX3lEVOjiXBmPg8AxFEhQ1Jwa5g&s",
-    role: "Finance Coordinator ",
-    company: "Saarang, IIT Madras",
-    date: "Jun 2023 - Jan 2024",
-    desc: "Oversaw a multi-crore budget, negotiated catering contracts, allocated funds, and developed essential financial documents for Saarang, the biggest cultural fest in India.",
-    skills: [
-      "Budgeting",
-      "Negotiation",
-      "Allocation",
+      "Javascript",
+      "React.Js",
+      "React Native",
       "Documentation",
-      "Financial Oversight",
-      "Coordination",
-      "Planning",
-      "Communication",
-      "Decision-making",
-      "Problem-solving",
+      "React Router",
+      "Tailwind CSS",
+      "Figma",
+      "Git",
+      "Axios"
     ],
   },
 ];
@@ -237,8 +203,8 @@ export const education = [
     img: "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/1200px-IIT_Madras_Logo.svg.png",
     school: "Indian Institute of  Technology, Madras",
     date: "Nov 2022 - Present",
-    grade: "7.85 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Naval Architecture and Ocean Engineering at Indian Institute of Technology, Madras. I have completed 4 semesters and have a CGPA of 7.85. I have taken courses in Introduction to Programming, Functions of Several Variables, Series and Matrices and Probability, Statistics & Stochiastic Process, among others. I have also been a member of the Finance Club, Music Club, Shaastra and Saarang at IITM.",
+    grade: "8.08 CGPA",
+    desc: "I am currently pursuing a Bachelor's degree in Ocean Engineering at Indian Institute of Technology, Madras. I have completed 6 semesters and have a CGPA of 8.08. I have taken courses in Programming Data Structures & Algorithms, Modern Application Development, Data Science : Theory & Practice, Operating Systems, Computer Networks and Probability, Statistics & Stochastic Process, among others. ",
     degree: "Bachelor of Technology - BTech, Naval Architecture and Ocean Engineering",
   },
   {
@@ -330,6 +296,45 @@ export const projects = [
   {
     id: 4,
     title: "Rock-Paper-Scissors",
+    date: "Jan 2024",
+    description:
+      "A simple and fun game built using HTML, CSS, and JavaScript. Challenge the computer in a classic game of Rock Paper Scissors and see if you can win!",
+    image:
+      "https://github.com/Shivam-Dubey18/Rock-Paper-Scissors/assets/152854367/60f64c63-1d14-44f3-af6c-0d73fa77d40c",
+    tags: ["HTML", "CSS", "Javascript"],
+    category: "beginner",
+    github: "https://github.com/Shivam-Dubey18/Rock-Paper-Scissors",
+    webapp: "https://shivam-dubey18.github.io/Rock-Paper-Scissors/",
+  },
+  {
+    id: 5,
+    title: "AI Course Generator",
+    date: "Jan 2024",
+    description:
+      "A simple and fun game built using HTML, CSS, and JavaScript. Challenge the computer in a classic game of Rock Paper Scissors and see if you can win!",
+    image:
+      "https://github.com/Shivam-Dubey18/Rock-Paper-Scissors/assets/152854367/60f64c63-1d14-44f3-af6c-0d73fa77d40c",
+    tags: ["HTML", "CSS", "Javascript"],
+    category: "beginner",
+    github: "https://github.com/Shivam-Dubey18/Rock-Paper-Scissors",
+    webapp: "https://shivam-dubey18.github.io/Rock-Paper-Scissors/",
+  },
+  {
+    id: 5,
+    title: "Study Notion",
+    date: "Jan 2024",
+    description:
+      "A simple and fun game built using HTML, CSS, and JavaScript. Challenge the computer in a classic game of Rock Paper Scissors and see if you can win!",
+    image:
+      "https://github.com/Shivam-Dubey18/Rock-Paper-Scissors/assets/152854367/60f64c63-1d14-44f3-af6c-0d73fa77d40c",
+    tags: ["HTML", "CSS", "Javascript"],
+    category: "beginner",
+    github: "https://github.com/Shivam-Dubey18/Rock-Paper-Scissors",
+    webapp: "https://shivam-dubey18.github.io/Rock-Paper-Scissors/",
+  },
+  {
+    id: 5,
+    title: "Blog App",
     date: "Jan 2024",
     description:
       "A simple and fun game built using HTML, CSS, and JavaScript. Challenge the computer in a classic game of Rock Paper Scissors and see if you can win!",

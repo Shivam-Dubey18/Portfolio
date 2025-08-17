@@ -78,9 +78,9 @@ const index = () => {
     return (
         <Container id="experience">
             <Wrapper>
-                <Title>Positions of Responsibility</Title>
+                <Title>Experience</Title>
                 <Desc>
-                    My involvement in college clubs and organizations allowed me to develop leadership and teamwork skills while managing various fests and events.
+                    Through my professional internships, I have honed my software development expertise, collaborated on impactful projects, and strengthened my ability to solve complex technical challenges.
                 </Desc>
                 <TimelineSection>
                     <Timeline>
